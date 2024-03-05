@@ -62,7 +62,7 @@ header .menu-line{
 }
 
 .container .rightside{
-    background: url(./images/eu.png);
+    background: url(assets/images/eu.png);
     background-size: cover;
     background-position: center top;
     flex: 1;
